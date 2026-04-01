@@ -9,6 +9,10 @@
 
 Замените `[PROJECT_NAME]` и описание под свой проект.
 
+> ⚠️ Important notice
+> The code was not stolen, it's mine. I was developing telegram bots for a while and I needed to build structured sample bot for Telegram.
+> So I took the code from my own projects, upgraded it and decided to upload!
+
 ---
 
 ## Возможности
